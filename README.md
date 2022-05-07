@@ -1,4 +1,4 @@
-# Soccer_Analysis_Python_Statsbomb
+# Soccer_Analysis_Statsbomb
  
 # StatsBomb Open Data
 
